@@ -1,0 +1,32 @@
+h1 {
+    font-weight: 300;
+}
+
+h2 {
+    background-color: #CFE094;
+    color: #5C4A36;
+    border-radius: 4px;
+    font-weight: 300;
+}
+
+a {
+    color: #80a000;
+}
+
+#api-tree {
+    background: linear-gradient( to bottom, #FFF, #FFF 50%, #E8F0CE 50%, #E8F0CE );
+    background-size: 100% 56px;
+    background-attachment: local;
+}
+
+#api-tree li.active > .hd {
+    background-color: #80a000;
+}
+
+#site-nav.navbar-default {
+    background-color: #CFE094;
+}
+
+#site-nav.navbar-default .navbar-brand, #site-nav.navbar-default .navbar-nav > li > a {
+    color: #5C4A36;
+}

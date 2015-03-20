@@ -1,0 +1,5 @@
+name: graze
+parent: default
+
+static:
+    'css/graze-theme.css': 'css/graze-theme.css'
