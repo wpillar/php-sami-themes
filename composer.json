@@ -1,0 +1,12 @@
+{
+    "name": "wpillar/php-sami-themes",
+    "description": "A set of themes for Sami",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Will Pillar",
+            "email": "me@willpillar.com"
+        }
+    ],
+    "require": {}
+}
